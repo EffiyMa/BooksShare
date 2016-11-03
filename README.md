@@ -70,3 +70,11 @@
 14. Effective Java(中文版)
 
 ---
+# 袁子华区
+1. swift 开发指南
+2. Java编程思想
+3. 函数式编程思思维（java）
+4. Head First 设计模式
+5. 推荐系统
+6. Python 绝技
+
